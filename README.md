@@ -1,5 +1,5 @@
 # Site para calcular a nota bimestral
-A cliente me pediu um site para ajuda-la a saber o quanto precisava para passsar de módulo na faculdade
+A cliente me pediu um site para ajuda-la a saber o quanto precisava para passsar de módulo na faculdade. Ela gostaria de saber de quanto precisaria na prova para ficar com uma nota final superior a 7
 
 ## O calculo: 
 ### Soma os pontos da tutoria, divide por 6, em seguida multiplica por 0,25 = X
